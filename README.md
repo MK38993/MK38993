@@ -1,1 +1,1 @@
-Data Scientist with STEM background, proficient in Python, SQL, and Java. Experience using regression, classification, natural language processing, and neural network models to solve business problems. Interested in pursuing a full-time career in Data Analytics/Science. 
+Hi! I'm a Data Analyst/Scientist with a STEM background. Proficient in Python, SQL, and Java, I have experience using regression, classification, natural language processing, and neural network models in solving business problems. I'm interested in pursuing a full-time career in Data Analytics/Science. 
